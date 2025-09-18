@@ -1,0 +1,15 @@
+{
+  "sheet_name": "BTC 1H Mean R strategic",
+  "sheet_tab": "t",
+  "columns": {
+    "A": { "name": "Coin", "source": "symbol" },
+    "B": { "name": "Date & Time", "source": "timestamp" },
+    "C": { "name": "Direction", "source": "signal" },
+    "D": { "name": "Entry Price", "source": "entry" },
+    "E": { "name": "Stop Loss", "source": "stop" },
+    "F": { "name": "Exit Price", "source": "exit" }
+  }
+}
+
+
+
